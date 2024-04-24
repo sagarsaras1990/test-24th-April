@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.pkm{
+   background-color: blue;
+   color: white;
+   /* width: 40%; */
+   margin: auto;
+}
