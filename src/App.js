@@ -47,7 +47,7 @@ function App() {
 
       </div>
       <div className="pokemon-details col">
-        <h2 className='pkm'>Pokemon Details</h2>
+        <h2 className='pkm'>Pokemon Details 1</h2>
         {selectedPokemon && (
           <div>
             <img src={selectedPokemon.sprites.front_default} alt={selectedPokemon.name} />
